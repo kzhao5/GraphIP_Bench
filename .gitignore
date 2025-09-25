@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+.env
+*.egg-info/
+
+# Data & outputs
+outputs/
+output/
+logs/
+checkpoints/
+artifacts/
+cache/
+.tmp/
+.tmp*/
+
+# Datasets
+data/
+datasets/
+*.zip
+*.tar.gz
+*.npz
+*.pt
+*.pth
+*.pkl
+*.jsonl
+
+# Notebooks
+*.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
